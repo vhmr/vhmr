@@ -3,8 +3,8 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/-CSS-f4ac21?style=flat-square&logo=Css&logoColor=white" />
-  <img alt="Js" src="https://img.shields.io/badge/-JS-f4ac21?style=flat-square&logo=Js&logoColor=white" />
+  <img alt="Css" src="https://img.shields.io/badge/-css-f4ac21?style=flat-square&logo=Css&logoColor=white" />
+  <img alt="Js" src="https://img.shields.io/badge/-js-f4ac21?style=flat-square&logo=Js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Larvel" src="https://img.shields.io/badge/-Laravel-f4ac21?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
