@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor H Montoya R</h1>
-<h3 align="center">A passionate frontend and backend developer from Venezuela</h3>
+![portada1](https://user-images.githubusercontent.com/9949217/89105437-13bcb480-d3ef-11ea-8836-888966817cb5.png)
 
 - 🔭 I’m currently working on [Dualosx](https://dualsosx.net)
 
