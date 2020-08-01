@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor H Montoya R</h1>
+<h1 align="center">Hi 👋🏾 💻, I'm Victor</h1>
 <img src="https://user-images.githubusercontent.com/9949217/89105437-13bcb480-d3ef-11ea-8836-888966817cb5.png" align="center">
 
 - 🔭 I’m currently working on [Dualosx](https://dualsosx.net)
