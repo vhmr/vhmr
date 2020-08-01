@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾 💻, I'm Victor</h1>
-<div align="center"><img src="https://user-images.githubusercontent.com/9949217/89105437-13bcb480-d3ef-11ea-8836-888966817cb5.png"></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/9949217/89108578-ba14b400-d407-11ea-8fc6-42b4d1ec4880.png"></div>
 
 - 🔭 I’m currently working on [Dualosx](https://dualsosx.net)
 
