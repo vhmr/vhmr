@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor H Montoya R</h1>
-!(https://user-images.githubusercontent.com/9949217/89105437-13bcb480-d3ef-11ea-8836-888966817cb5.png)
+!(https://user-images.githubusercontent.com/9949217/89105437-13bcb480-d3ef-11ea-8836-888966817cb5.png)[]
 
 - 🔭 I’m currently working on [Dualosx](https://dualsosx.net)
 
