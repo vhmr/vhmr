@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Victor H Montoya R</h1>
 <h3 align="center">A passionate frontend and backend developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [Dualosx](dualsosx.net)
+- 🔭 I’m currently working on [Dualosx](https://dualsosx.net)
 
 - 🌱 I’m currently learning **Node.js, React Native, hools react**
 
-- 💬 Ask me about **laravel, react, html, css**
+- 💬 Ask me about **laravel, react, html, css, wordpress**
 
 - 📫 How to reach me **victor.montoya8@gmail.com**
 
